@@ -1,0 +1,21 @@
+<filetype binary="false" description="Fish shell" name="fish">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="and;begin;bg;bind;block;break;breakpoint;builtin;case;cd;command;commandline;complete;contains;continue;count;echo;else;emit;end;exec;exit;false;fg;fish;fish_realpath;fish_right_prompt;for;function;functions;if;jobs;not;or;printf;pwd;random;read;return;set;set_color;source;status;suspend;switch;test;true;ulimit;while" ignore_case="true" />
+    <keywords2 keywords="await;cd;cdsitepackages;contains_seq;deactivate;delete-or-exit;dirh;dirs;down-or-search;eval;export;fish_config;fish_default_key_bindings;fish_fallback_prompt;fish_greeting;fish_indent;fish_mode_prompt;fish_prompt;fish_right_prompt;fish_sigtrap_handler;fish_title;fish_update_completions;fish_vi_cursor;fish_vi_key_bindings;fish_vi_mode;funced;funcsave;get_file_age;grep;help;history;hostname;isatty;la;last_job_id;ll;ls;man;math;mktmpenv;nextd;nextd-or-forward-word;open;popd;prevd;prevd-or-backward-word;prompt_pwd;psub;pushd;realpath;seq;setenv;string;suspend;toggleglobalsitepackages;trap;type;umask;up-or-search;vared
+" ignore_case="true" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="fish" />
+  </extensionMap>
+</filetype>
