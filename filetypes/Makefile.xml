@@ -1,0 +1,21 @@
+<filetype binary="false" description="Makefile" name="Makefile">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="make_restarts;make_termerr;make_termout;makefile_list" ignore_case="true" />
+    <keywords2 keywords=".default_goal;.features;.include_dirs;.phony;.recipeprefix;.variables" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="GNUmakefile" />
+    <mapping pattern="Makefile" />
+    <mapping pattern="makefile" />
+  </extensionMap>
+</filetype>

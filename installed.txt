@@ -1,0 +1,13 @@
+com.intellij
+BashSupport
+Builder Generator
+DBN
+mobi.hsz.idea.gitignore
+GrepConsole
+Lombook Plugin
+SortSelection
+com.dmarcotte.handlebars
+Docker
+Karma
+NodeJS
+net.nicoulaj.idea.markdown
