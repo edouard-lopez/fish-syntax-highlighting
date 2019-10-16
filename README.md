@@ -10,6 +10,8 @@ Copy [`fish.xml`](./JetBrains/filetypes/fish.xml) in `<IDE>/config/filetypes` di
 
 ## Community-Driven
 
+This repo is based on Dmitriy Kubyshkin (@grassator) [makefile config](everythingfrontend.com/dealing-with-makefiles-in-intellij).
+
 Send me **pull-request** if you find bugs or add support for another IDE/editor.
 
 Contributors:
